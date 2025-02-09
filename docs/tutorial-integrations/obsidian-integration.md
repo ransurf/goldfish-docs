@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Enable Notse Sync with Obsidian
+# Enable Notes Sync with Obsidian
 
 You can link Goldfish Notes with Obsidian to directly sync notes from Goldfish into a specified folder in your Obsidian vault.
 
-## 1.Install “Goldfish Notes Sync” Plugin
+## 1. Install “Goldfish Notes Sync” Plugin
 
 - In Obsidian, open **Settings**.
 - Navigate to **Community Plugins**, select **Browse**, and search for **"BRAT"**. 
